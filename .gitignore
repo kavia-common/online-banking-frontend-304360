@@ -40,3 +40,4 @@ dockerfiles/mocks/node_modules/
 .swc/
 .test_report/
 .vscode/
+.file_activity_report.json
